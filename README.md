@@ -1,5 +1,5 @@
 # Trabajo de Fin de Máster - Mavi Perujo
-Este repositorio contiene mi TFM del Máster Data Science (CEUPE)
+Este repositorio contiene mi TFM del Máster Data Science (CEUPE).
 
 ## Resumen
 El TFM se titula Análisis de multas de circulación en Madrid y el objetivo
